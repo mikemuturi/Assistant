@@ -1,0 +1,58 @@
+Below are some of functionality i have implemented and you can use your voice to request any of them.
+
+
+
+1. search something for on google
+
+2.Wikipedia  search
+
+3 Where am i
+
+4. Take a note
+
+5.  Take a screen shot
+
+6. Ask him hi name.
+
+7. Open  youtube,google,file explorer, command prompt and chrome.
+
+
+8. location search or your current location.
+
+9. I want to play  games
+
+10. play music
+
+11.  Ask time/date update
+
+12. suggest password for you
+
+13. voice reocording
+
+14. convert my notes to speech
+
+15. exit/  shutdown
+
+16. stop listening
+
+17. current temperature
+
+18. Voice Calculator
+
+19. tell me some jokes
+
+20. send a whatsapp message
+
+21. play song on youtube
+
+22 search for topic you want to search for
+
+23 Search biography/autobiography
+
+24. take a photo
+
+25. open bluetooth and send  files through bluetooth
+
+26. weather updates
+
+27.search capital city
